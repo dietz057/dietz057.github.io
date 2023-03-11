@@ -1,8 +1,6 @@
 #
 # This file contains configuration flags to customize your site
 #
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 remote_theme: pages-themes/slate@v0.2.0
 
 # Name of your site (displayed in the header)
