@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Eric Dietz and I'm a SOC manager.  I use this site to write about cybersecurity, leadership, and a handful of other topics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dietz057@gmail.com](mailto:dietz057@gmail.com)
