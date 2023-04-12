@@ -18,5 +18,6 @@ Another reason is for professional reasons.  I really like the idea of potential
 ### Contact me
 
 [dietz057@gmail.com](mailto:dietz057@gmail.com)
+
 [Linkedin Profile](https://www.linkedin.com/in/dietzeric/)
 
