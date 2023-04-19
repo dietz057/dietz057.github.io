@@ -31,4 +31,10 @@ _Basically, a red team can serve many purposes and what you want to accomplish w
 
 _I’ve rambled a bit, but I think you’re asking the right questions - so you’re going to be fine in your career. Good luck!_
 
+I wanted to expand a bit on my answer here, because the poster had a really great question that reminded me of an important principle - and that's to let your goals guide your execution plan.  I think many professionals (and I'm about to sound like a project manager - which I occasionally am), neglect to think about the requirements of their project before actually executing them.  And for the purposes of this, interpret the term "project" broadly to mean anything you do that's valuable. The reason why you need to focus on requirements is because these will change based 
+
+
+
+
+
 
